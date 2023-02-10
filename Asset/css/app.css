@@ -589,7 +589,7 @@ body {
 }
 @media only screen and (max-width: 56.25em) {
   .btn {
-    padding: 0.2rem 0.5rem;
+    padding: 0.7rem 2rem;
   }
 }
 .btn > * {
@@ -599,7 +599,7 @@ body {
   transition: all 0.2s;
 }
 .btn__visible {
-  padding: 0.2rem 7.5rem;
+  padding: 2rem 7.5rem;
 }
 .btn__invisible {
   position: absolute;
